@@ -1,0 +1,15 @@
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\bin\Debug\net6.0\Ejercicio3JBHZ.exe
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\bin\Debug\net6.0\Ejercicio3JBHZ.deps.json
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\bin\Debug\net6.0\Ejercicio3JBHZ.runtimeconfig.json
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\bin\Debug\net6.0\Ejercicio3JBHZ.dll
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\bin\Debug\net6.0\Ejercicio3JBHZ.pdb
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\obj\Debug\net6.0\Ejercicio3JBHZ.csproj.AssemblyReference.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\obj\Debug\net6.0\Ejercicio3JBHZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\obj\Debug\net6.0\Ejercicio3JBHZ.AssemblyInfoInputs.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\obj\Debug\net6.0\Ejercicio3JBHZ.AssemblyInfo.cs
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\obj\Debug\net6.0\Ejercicio3JBHZ.csproj.CoreCompileInputs.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\obj\Debug\net6.0\Ejercicio3JBHZ.dll
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\obj\Debug\net6.0\refint\Ejercicio3JBHZ.dll
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\obj\Debug\net6.0\Ejercicio3JBHZ.pdb
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\obj\Debug\net6.0\Ejercicio3JBHZ.genruntimeconfig.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\PARCIAL 2 EJERCICIOS JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio3JBHZ\Ejercicio3JBHZ\obj\Debug\net6.0\ref\Ejercicio3JBHZ.dll
